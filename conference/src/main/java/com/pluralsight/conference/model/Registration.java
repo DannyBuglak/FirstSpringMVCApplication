@@ -11,4 +11,5 @@ public class Registration {
     public void setName(String name) {
         this.name = name;
     }
+    // Testing
 }
